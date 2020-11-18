@@ -1,6 +1,4 @@
-<div align="center">
-## Hey 👋, I'm Chloé Talour, a Front-end developper !  
-</div>
+## <div align="center">Hey 👋, I'm Chloé Talour, a Front-end developper !</div>  
   
 
 <a href="https://github.com/ChloeTalour" target="_blank">
