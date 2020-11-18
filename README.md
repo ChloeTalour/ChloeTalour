@@ -1,4 +1,6 @@
+<div align="center">
 ## Hey 👋, I'm Chloé Talour, a Front-end developper !  
+</div>
   
 
 <a href="https://github.com/ChloeTalour" target="_blank">
@@ -15,7 +17,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Presentation 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on BadDriver Project  
