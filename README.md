@@ -10,28 +10,6 @@
 <a href="https://linkedin.com/in/chloeTalour" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-## Presentation 
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on BadDriver Project  
-  
-
-- 🌱 I’m currently learning NodeJs Express and GastbyJs  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
